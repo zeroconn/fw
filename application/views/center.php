@@ -1,0 +1,1 @@
+<h1>Center Page</h1>
